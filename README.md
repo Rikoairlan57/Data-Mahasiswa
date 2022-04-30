@@ -11,4 +11,13 @@ website ini dibuat untuk mendata mahasiswa
 - JavaScript
 - PHP
 - MySQL
-- SB-Admin Template
+
+# Library yang digunakan
+
+- Jquery
+- Bootstrap
+- SweetAlert
+
+# Template yang digunakan
+
+- SB admin
