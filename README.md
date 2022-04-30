@@ -21,3 +21,19 @@ website ini dibuat untuk mendata mahasiswa
 # Template yang digunakan
 
 - SB admin
+
+# Dashboard
+
+![Dashboard](ss/1.png)
+
+# Data Mahasiswa
+
+![DataMahasiswa](ss/2.png)
+
+# Data Jurusan
+
+![DataJurusan](ss/3.png)
+
+# Data Program Studi
+
+![Dataparodi](ss/4.png)
