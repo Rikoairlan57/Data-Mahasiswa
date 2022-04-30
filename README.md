@@ -4,6 +4,10 @@
 
 website ini dibuat untuk mendata mahasiswa
 
+# Framework
+
+- CodeIgniter 3
+
 # website ini dibuat menggunakan
 
 - HTML
