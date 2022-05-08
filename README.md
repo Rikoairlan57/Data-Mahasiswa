@@ -24,7 +24,7 @@ website ini dibuat untuk mendata mahasiswa
 
 # Template yang digunakan
 
-- SB admin
+- AdminLTE 
 
 # Dashboard
 
