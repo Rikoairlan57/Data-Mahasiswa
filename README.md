@@ -10,7 +10,7 @@
 
 # What this website ?
 
-website ini dibuat untuk mendata mahasiswa
+website ini dibuat untuk mendata mahasiswa di dalam website ini sudah memiliki prrogram CRUD menggunakan database mysql
 
 # Framework
 
@@ -32,7 +32,7 @@ website ini dibuat untuk mendata mahasiswa
 
 # Template yang digunakan
 
-- AdminLTE 
+- AdminLTE
 
 # Dashboard
 
